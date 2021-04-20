@@ -20,6 +20,8 @@ private slots:
 
     void on_ClearAll_clicked();
 
+    void on_graphicsView_rubberBandChanged(const QRect &viewportRect, const QPointF &fromScenePoint, const QPointF &toScenePoint);
+
 private:
     Ui::MainWindow *ui;
 };

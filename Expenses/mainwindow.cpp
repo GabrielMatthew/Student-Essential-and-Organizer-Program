@@ -27,5 +27,7 @@ void MainWindow::on_Compute_clicked()
 
 void MainWindow::on_ClearAll_clicked()
 {
+    ui->lineEdit_op1->clear();
+    ui->lineEdit_op2->clear();
     ui->lineEdit_result->clear();
 }
