@@ -1,9 +1,1 @@
-﻿  ExpensesTracker.cpp
-  loginForm.cpp
-C:\Users\User\Desktop\ProjectCPD\Project1\Project1\registerForm.h(319,21): warning C4101: 'e': unreferenced local variable
-C:\Users\User\Desktop\ProjectCPD\Project1\Project1\loginForm.h(288,21): warning C4101: 'e': unreferenced local variable
-C:\Users\User\Desktop\ProjectCPD\Project1\Project1\loginForm.h(324,20): warning C4101: 'e': unreferenced local variable
-  menuForm.cpp
-  Generating Code...
-  ExpensesTracker.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Project1.vcxproj -> C:\Users\User\Desktop\ProjectCPD\Project1\Debug\Project1.exe
+﻿  Project1.vcxproj -> C:\Users\User\Desktop\ProjectCPD\Project1\Debug\Project1.exe
