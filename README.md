@@ -16,7 +16,7 @@ To use the program:
 3rd: Click the features needed.
 4th: For the expenses tracker the needed are the add money and expenses then click calculate. To reset click reset
      For the GPA calculator the needed are the course code, units, and grades then click calculate. To remove subject click the subject from the table then click remove.
-     For the to do list, the needed is the notes then click the (+) button to add. To remove click the note then click (-) button. To update double click the note then edit the note the click the update button.
+     For the to do list, the needed is the notes and due date then click the (+) button to add. To remove click the note then click (-) button. To update double click the note then edit the note and due date then click the update button.
 5th: To logout just click the logout button.
 6th: To exit the program just click the exit button.
 
